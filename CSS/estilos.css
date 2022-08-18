@@ -1,0 +1,77 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+
+}
+
+
+footer {
+    background-image: url(../Imagenes/6-\ FOOTER/1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    background-color: #212529f8;
+    height: 150px;
+}
+
+
+ /* ----------------------------------  //  --------------------------------*/
+
+
+.banner {
+    background-color: #212529;
+}
+
+
+
+#navbar {
+    position: sticky;
+    top: 0%;
+    z-index: 1;
+
+}
+
+.index {
+    background-color: #212529;
+    margin: 0;
+    border: 0;
+    padding: 0;
+
+}
+
+
+.text-white {
+    text-align: right;
+}
+
+.precios {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.Talles {
+    text-align: center;
+}
+
+.iconos {
+    text-align: left;
+    contain: size;
+
+}
+
+.cuadro {
+    border: solid #000000 8px;
+    padding: 0%;
+    background-color: aliceblue;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.iconos a{
+    color: white;
+}
+
+.foot{
+    background-color: #212529;
+    border-top: 1rem;
+    border-color: #212529;
+}
